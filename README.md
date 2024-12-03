@@ -4,7 +4,8 @@ Support my socials
 [Youtube](https://www.youtube.com/@Zentura-x)
 
 ## How to install :
-1.```bash
+1. Clone repository:
+```bash
  git clone https://github.com/Zentura-lol/Star
 ```
 
