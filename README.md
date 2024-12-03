@@ -9,6 +9,16 @@ Support my socials
  git clone https://github.com/Zentura-lol/Star
 ```
 
+2. Install dependencies:
+```bash
+pip install -r requirements.txt
+```
+
+3. Run the file:
+```bash
+python3 Star.py
+```
+
 ## Contribute by :
 1. Fork the repository.
 2. Create a new branch.
