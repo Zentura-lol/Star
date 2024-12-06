@@ -1,7 +1,7 @@
 # Star
 A small project by me! pull requests on what i should add remember i only read my comments ;P
 Support my socials
-![Youtube](https://www.youtube.com/@Zentura-x)
+[Youtube](https://www.youtube.com/@Zentura-x)
 ![How it looks](https://github.com/Zentura-lol/Star/blob/main/images/image.png)
 
 ## How to install :
